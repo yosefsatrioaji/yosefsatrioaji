@@ -1,5 +1,5 @@
 ## Hello, I'm Yosef
-🎓 Currently a 3rd-year Computer Engineering student at Diponegoro University<br>
+🎓 Fresh graduate Computer Engineering student at Diponegoro University<br>
 💪 Passionate in web development especially on the backend side and cloud computing<br>
 📜 Have passed 2 AWS Cloud Certification and 3 GCP Cloud Certification<br>
 
