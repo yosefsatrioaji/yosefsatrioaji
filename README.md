@@ -1,7 +1,7 @@
 ## Hello, I'm Yosef
 🎓 Fresh graduate Computer Engineering student at Diponegoro University<br>
 💪 Passionate in web development especially on the backend side and cloud computing<br>
-📜 Have passed 2 AWS Cloud Certification and 3 GCP Cloud Certification<br>
+📜 Have passed 3 AWS Cloud Certification and 3 GCP Cloud Certification<br>
 
 ## Let's Get In Touch!
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yosefsatrioaji/)
